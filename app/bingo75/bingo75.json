@@ -1,0 +1,10 @@
+{
+  "connect" : "bf00d6b2-0a7b-4b14-b66f-2c507bbc7108",
+  "auth" : "[{\"Number\":2,\"Contents\":\"<admin command=\\\"auth\\\" user=\\\"waterson89\\\" balance=\\\"996977\\\" existingspend=\\\"0\\\" nextgameq=\\\"0\\\" club=\\\"1\\\" nextgameclub=\\\"0\\\" currentgameclub=\\\"0\\\"  ticketprice=\\\"25\\\" pattern=\\\"0111011111101011111110001\\\" patternname=\\\"Space Invader\\\"  />\"}]",
+  "purchase": "[{\"Number\":8,\"Contents\":\"<admin command=\\\"purchase\\\" success=\\\"true\\\" newbalance=\\\"996967\\\" newexistingspend=\\\"10\\\" quantity=\\\"1\\\" />\"}]",
+  "calls":
+  [
+    "[{\"Number\":33,\"Contents\":\"<calls command=\\\"calls\\\" callno=\\\"1\\\" call=\\\"66\\\" />\"}]",
+    "[{\"Number\":35,\"Contents\":\"<calls command=\\\"calls\\\" callno=\\\"2\\\" call=\\\"47\\\" />\"}]"
+  ]
+}
